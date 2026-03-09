@@ -157,22 +157,6 @@ docker stop postgres-db
 
 ---
 
-## Screenshots
-
-### API Example in Postman
-
-![Postman GET Users](screenshots/postman-users.png)
-
-### Docker Running PostgreSQL
-
-![Docker PostgreSQL](screenshots/docker-postgres.png)
-
-### pgAdmin Database View
-
-![pgAdmin](screenshots/pgadmin.png)
-
----
-
 ## Author
 
 **Rucha Ahire**
