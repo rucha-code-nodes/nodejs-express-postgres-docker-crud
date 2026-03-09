@@ -1,0 +1,13 @@
+ran the command to pull postgres image :
+docker run --name postgres-db -e POSTGRES_PASSWORD=rucha123 -p 5432:5432 -d postgres
+
+
+---
+docker exec -it postgres-db psql -U postgres
+check db's=>  \l
+
+download pgadmin extension from docker
+
+
+
+docker start postgres-db
